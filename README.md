@@ -1,1 +1,1 @@
-# Population-Web-Map-with-Pandas
+# Volcano-and-Population-Web-Map-with-Pandas
